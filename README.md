@@ -19,7 +19,8 @@ Acompanhe Nosso Guia:
 # Autores
 | Nome | Portifólio | Curriculo |
 |----------|--------------------|-------------|
-| Isak | [GitHub](https://github.com/isakfbs) | [Linkedin](https://www.linkedin.com/in/isakfbs/) |
-| Abraão | [GitHub](https://github.com/TechAbraao) | [Linkedin](https://www.linkedin.com/in/abraaosvs/) |
-| Leandro | [GitHub](https://github.com/orgs/HighCode-DSM-FATECZL-2024/people/iLeandroo) | [Linkedin](https://www.linkedin.com/in/leandro-lopes-50071220b/) |
-| Mattera | [GitHub](https://github.com/orgs/HighCode-DSM-FATECZL-2024/people/Mattera-dev) | [Linkedin](in/vinicius-mattera-zaniboni-a172b7325) |
+| Isak Silva | [GitHub](https://github.com/isakfbs) | [Linkedin](https://www.linkedin.com/in/isakfbs/) |
+| Abraão Santos | [GitHub](https://github.com/TechAbraao) | [Linkedin](https://www.linkedin.com/in/abraaosvs/) |
+| Leandro Lima | [GitHub](https://github.com/orgs/HighCode-DSM-FATECZL-2024/people/iLeandroo) | [Linkedin](https://www.linkedin.com/in/leandro-lopes-50071220b/) |
+| Vinicius Mattera | [GitHub](https://github.com/orgs/HighCode-DSM-FATECZL-2024/people/Mattera-dev) | [Linkedin](in/vinicius-mattera-zaniboni-a172b7325) |
+| Aline Teixeira | [GitHub](https://github.com/AlineMachadoTeixeira) | [Linkedin](https://www.linkedin.com/in/alinemachadoteixeira/) |
